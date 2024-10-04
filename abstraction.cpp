@@ -4,7 +4,7 @@
 // know about the inner mechanism of the car or the implementation of the accelerator, brakes, etc in the car. This is what abstraction is.
 
 // types of abstraction :
-// 1. data abstraction: this only shows the neccessary information about the data and ignores the unnecessary details 
+// 1. data abstraction: this only shows the neccessary information about the data and ignores the unnecessary details ....
 // 2. control abstraction: this only shows the neccessary information about the implementation and ignores the unnecessary details ..
 
 // abstraction can be done using classes ..
