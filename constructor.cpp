@@ -1,5 +1,5 @@
 // constructor are special class member that are called everytime by the compiler when the object is instantiated...
-// constructor are of same name and can be defined indside or outside the class 
+// constructor are of same name as that of the class and can be defined indside or outside the class 
 
 // there are 4 types of constructor:
 // 1. default constructor 2. parameterized constructor 3. copy constructor 4. move constructor 
@@ -17,7 +17,7 @@ class Geeks
     int id;
     
     //Default Constructor
-    Geeks()
+    Geeks() // as it is taking no argument 
     {
         cout << "Default Constructor called" << endl; 
         id=-1;
