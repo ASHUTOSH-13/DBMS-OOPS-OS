@@ -6,8 +6,8 @@
 // there are two types of polymorphism:
 // 1. compile-time polymorphism 2. runtime polymorphism
 
-// compile-time polymorphism: this type of overloading is acheived using function overloading or operator overloading...
-// function overloading: when there are multiple functions with same name but different parameters, then it is said to be overloaded.
+// compile-time polymorphism: this type of polymorphism is acheived using function overloading or operator overloading...
+// function overloading: when there are multiple functions with same name but different parameters, then it is said to be function overloaded.
 // this overloading is called function overloading, you can achieve this by changing the number of paramters or type of parameters...
 
 #include <bits/stdc++.h>

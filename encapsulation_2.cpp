@@ -1,6 +1,6 @@
 // features of encapsulation:
-// 1. we cannot access member function directly, we need an object to access that object that is using the member variable of that function..
-// 2. the function that we making inside must be using only the member variable then it is called encapsulation..
+// 1. we cannot access member function directly, we need an object to access that, object that is using the member variable of that function..
+// 2. the function that we are making inside must be using only the member variable then it is called encapsulation..
 // 3. if we make a function outside that is using member variable then that is not called encapsulation..
 // 4. encapsulation ensures readability, maintainability and security of the member variables by grouping then together
 // 5. it helps us to control the modification of our data members ..

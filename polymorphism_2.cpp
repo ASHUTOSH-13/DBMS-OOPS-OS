@@ -30,7 +30,7 @@ int main() {
 }
 //For example, we can make use of the addition operator (+) for string class to concatenate two strings.
 
-// runtime polymorphism :  also called late binding or dynamic polymorphism, the function call is resloved in runtime in runtime polymorphism
+// runtime polymorphism :  also called late binding or dynamic polymorphism, the function call is resolved in runtime in runtime polymorphism
 // In contrast, with compile time polymorphism, the compiler determines which function call to bind to the object after deducing it at runtime.
 
 #include <bits/stdc++.h>
