@@ -10,7 +10,6 @@ class Person{
     string name ;
     int age ;
     Person(){
-
     }
 };
 class Student : public Person {
